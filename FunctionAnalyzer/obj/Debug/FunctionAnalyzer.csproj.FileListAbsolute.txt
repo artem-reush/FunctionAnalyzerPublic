@@ -1,0 +1,12 @@
+C:\Repository_C\FunctionAnalyzer\FunctionAnalyzer\bin\Debug\FunctionAnalyzer.exe.config
+C:\Repository_C\FunctionAnalyzer\FunctionAnalyzer\bin\Debug\FunctionAnalyzer.exe
+C:\Repository_C\FunctionAnalyzer\FunctionAnalyzer\bin\Debug\FunctionAnalyzer.pdb
+C:\Repository_C\FunctionAnalyzer\FunctionAnalyzer\obj\Debug\FunctionAnalyzer.Properties.Resources.resources
+C:\Repository_C\FunctionAnalyzer\FunctionAnalyzer\obj\Debug\FunctionAnalyzer.csproj.GenerateResource.cache
+C:\Repository_C\FunctionAnalyzer\FunctionAnalyzer\obj\Debug\FunctionAnalyzer.csproj.CoreCompileInputs.cache
+C:\Repository_C\FunctionAnalyzer\FunctionAnalyzer\obj\Debug\FunctionAnalyzer.exe
+C:\Repository_C\FunctionAnalyzer\FunctionAnalyzer\obj\Debug\FunctionAnalyzer.pdb
+C:\Repository_C\FunctionAnalyzer\FunctionAnalyzer\obj\Debug\FunctionAnalyzer.Graph.resources
+C:\Repository_C\FunctionAnalyzer\FunctionAnalyzer\obj\Debug\FunctionAnalyzer.DisplayTree.resources
+C:\Repository_C\FunctionAnalyzer\FunctionAnalyzer\obj\Debug\FunctionAnalyzer.csprojAssemblyReference.cache
+C:\Repository_C\FunctionAnalyzer\FunctionAnalyzer\obj\Debug\FunctionAnalyzer.MainForm.resources
